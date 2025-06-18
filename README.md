@@ -8,7 +8,7 @@ Este repositório contém projetos de análise de dados desenvolvidos para fins 
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| [🧹 Limpeza de dados de Vendas de Cafeteria](./cafe-sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente pelo MySQL|SQL|
+| [🧹 Limpeza de dados de Vendas de Cafeteria](./cafe-sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente pelo MySQL|MySQL|
 
 ## 🗃 Estrutura do Repositório
 📁 cafe-sales/  
