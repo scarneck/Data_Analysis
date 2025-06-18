@@ -4,8 +4,8 @@
 ### 🧼 Realizei a limpeza dos dados.  
 ### 🖊️ E documentei o processo.
 ---  
-### 🤓 o dataset está neste link:  
+### O dataset foi baixado neste link:  
 [Kaggle](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training/data)
 ---
-### e a tabela em csv está em:  
-📁cafe sales/data/dirty_cafe_sales.csv
+### A tabela em csv está em:  
+📁 [cafe sales/data/dirty_cafe_sales.csv](https://github.com/scarneck/Data_Analysis/tree/main/cafe%20sales/data)
