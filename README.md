@@ -8,8 +8,15 @@ Este repositório contém projetos de análise de dados desenvolvidos para fins 
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| [📊 Análise de Vendas de Cafeteria](./cafe-sales/) | Limpeza e EDA de dados de vendas fictícias de uma cafeteria | MySQL, SQL|
----
+| [🧹 Limpeza de dados de Vendas de Cafeteria](./cafe-sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente pelo MySQL|SQL|
 
 ## 🗃 Estrutura do Repositório
+📁 cafe-sales/  
+README.md  
+
+## 🚀 Como usar
+
+1. Navegue até uma das pastas de projeto
+2. Leia o `README.md` local para detalhes e instruções
+3. Execute os notebooks ou scripts conforme o guia de cada pasta
 
