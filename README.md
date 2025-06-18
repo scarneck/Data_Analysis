@@ -8,15 +8,15 @@ Este repositório contém projetos de análise de dados desenvolvidos para fins 
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| [🧹 Limpeza de dados de Vendas de Cafeteria](./cafe-sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente pelo MySQL|MySQL|
+| [🧹 Limpeza de dados de Vendas de Cafeteria](./cafe%20sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente pelo MySQL|MySQL|
 
 ## 🗃 Estrutura do Repositório
 
--  📁 cafe-sales/  
-   -  1_Cleaning_Cafe_sales.sql
+-  📁 cafe-sales/
+   -  [1_Cleaning_Cafe_sales.sql](./cafe%20sales/1_Cleaning_Cafe_Sales.sql)
    -  README.md
    -  data/
-       -  dirty_cafe_sales.csv
+       -  [dirty_cafe_sales.csv](./cafe%20sales/data/dirty_cafe_sales.csv)
 -  README.md  
 
 ## 🚀 Como usar
