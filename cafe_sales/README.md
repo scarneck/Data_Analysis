@@ -25,5 +25,5 @@ Este projeto tem como objetivo limpar e analisar um dataset realista de vendas d
 ## Fonte dos dados
  - `data`/`dirty_cafe_sales.csv`
      
-Dataset obtido no Kaggle: [Dirty Cafe Sales Dataset](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training) publicado por [ahmedmohamed2003](https://www.kaggle.com/ahmedmohamed2003) sob a licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Dataset obtido no Kaggle: [Dirty Cafe Sales Dataset](https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training) publicado por [Ahmed Mohamed](https://www.kaggle.com/ahmedmohamed2003) sob a licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
