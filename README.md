@@ -1,6 +1,6 @@
 # Meu portifólio de Análise de Dados
 
-Este repositório contém projetos de análise de dados desenvolvidos para fins de aprendizado, prática e demonstração das minhas habilidades em SQL, Python, visualização de dados e storytelling analítico que estou desenvolvendo.
+Este repositório contém projetos de análise de dados desenvolvidos para fins de aprendizado, prática e demonstração das minhas habilidades em SQL, visualização de dados e storytelling analítico que estou desenvolvendo.
 
 ---
 
