@@ -1,25 +1,25 @@
-# 📚 Meu portifólio de Análise de Dados
+# Meu portifólio de Análise de Dados
 
 Este repositório contém projetos de análise de dados desenvolvidos para fins de aprendizado, prática e demonstração das minhas habilidades em SQL, Python, visualização de dados e storytelling analítico que estou desenvolvendo.
 
 ---
 
-## 📂 Projetos disponíveis
+## Projetos disponíveis
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| [🧹 Limpeza de dados de Vendas de Cafeteria](./cafe%20sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente pelo MySQL|MySQL|
+| 🧹 [*Limpeza de dados e EDA de Vendas de Cafeteria*](./cafe_sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente e realizei a análise exploratória dos dados usando MySQL e SQL puro.|MySQL, SQL|
 
-## 🗃 Estrutura do Repositório
+## Estrutura do Repositório
 
--  📁 cafe-sales/
-   -  [1_Cleaning_Cafe_sales.sql](./cafe%20sales/1_Cleaning_Cafe_Sales.sql)
-   -  README.md
-   -  data/
-       -  [dirty_cafe_sales.csv](./cafe%20sales/data/dirty_cafe_sales.csv)
--  README.md  
+*  `cafe-sales/`
+   -  `1_Cleaning_Cafe_sales.sql`
+   -  `README.md`
+   -  `data/`
+       -  `dirty_cafe_sales.csv`
+*  `README.md`  
 
-## 🚀 Como usar
+## Como usar
 
 1. Navegue até uma das pastas de projeto
 2. Leia o `README.md` local para detalhes e instruções
