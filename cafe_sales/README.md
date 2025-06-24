@@ -7,10 +7,12 @@ Este projeto tem como objetivo limpar e analisar um dataset realista de vendas d
 - Limpeza de dados nulos, inválidos e inconsistentes
 - Correção e padronização de colunas (produtos, datas, locais, pagamentos)
 - Análise exploratória (EDA) com SQL
+- Criação de vizualização pelo Power-BI
 
 ## Ferramentas utilizadas
 - MySQL
 - SQL puro
+- Power BI
 - Dataset do Kaggle (Dirty Cafe Sales)
 
 ## Principais insights
@@ -21,7 +23,7 @@ Este projeto tem como objetivo limpar e analisar um dataset realista de vendas d
 ## Estrutura
 - `1_Cleaning_Cafe_Sales.sql`: script com a limpeza dos dados
 - `2_Cafe_EDA.sql`: script com a análise exploratória dos dados
-- `view`/`sales_data_dashboard.pbix`: dashboard feito no power-bi para vizualização dos dados
+- `view`/`sales_data_dashboard.pbix`: dashboard feito no Power-BI para vizualização dos dados
 
 ## Fonte dos dados
  - `data`/`dirty_cafe_sales.csv`
