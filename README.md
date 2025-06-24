@@ -14,6 +14,7 @@ Este repositório contém projetos de análise de dados desenvolvidos para fins 
 
 *  `cafe-sales/`
    -  `1_Cleaning_Cafe_sales.sql`
+   -  `2_Cafe_EDA.sql`
    -  `README.md`
    -  `data/`
        -  `dirty_cafe_sales.csv`
