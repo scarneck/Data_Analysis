@@ -21,6 +21,7 @@ Este projeto tem como objetivo limpar e analisar um dataset realista de vendas d
 ## Estrutura
 - `1_Cleaning_Cafe_Sales.sql`: script com a limpeza dos dados
 - `2_Cafe_EDA.sql`: script com a análise exploratória dos dados
+- `view`/`sales_data_dashboard.pbix`: dashboard feito no power-bi para vizualização dos dados
 
 ## Fonte dos dados
  - `data`/`dirty_cafe_sales.csv`
