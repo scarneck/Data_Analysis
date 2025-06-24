@@ -18,7 +18,7 @@ Este repositório contém projetos de análise de dados desenvolvidos para fins 
    -  `README.md`
    -  `data/`
        -  `dirty_cafe_sales.csv`
-   -  `view`
+   -  `view/`
        -  `cafe_sales_dashboard.pbix`
 *  `README.md`  
 
