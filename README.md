@@ -8,7 +8,7 @@ Este repositório contém projetos de análise de dados desenvolvidos para fins 
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| 🧹 [*Limpeza de dados e EDA de Vendas de Cafeteria*](./cafe_sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente e realizei a análise exploratória dos dados usando MySQL e SQL puro.|MySQL, SQL|
+| 🧹 [*Limpeza de dados e EDA de Vendas de Cafeteria*](./cafe_sales/) | Limpeza de dados de vendas de uma cafeteria fictícia com dados sujos sintéticamente, realizei a análise exploratória dos dados usando MySQL e SQL puro e criei um dashboard interativo pelo Power-BI |MySQL, SQL, Power-BI|
 
 ## Estrutura do Repositório
 
@@ -17,6 +17,8 @@ Este repositório contém projetos de análise de dados desenvolvidos para fins 
    -  `README.md`
    -  `data/`
        -  `dirty_cafe_sales.csv`
+   -  `view`
+       -  `cafe_sales_dashboard.pbix`
 *  `README.md`  
 
 ## Como usar
